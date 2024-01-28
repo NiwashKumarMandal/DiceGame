@@ -1,7 +1,7 @@
 [<img src="./cover.png" width="100%" alt="cover-photo">](#) <span style="color:blue"><em></em></span>
 # Dice Roll Game 🕹️
 
-[<img src="./dice.png" width="50px" alt="rock-icon" target="_main">](https://niwashkumarmandal.github.io/DiceGame/) <span style="color:blue;">(Click on the image to view this project)</span>
+[<img src="./dice.png" width="30px" alt="rock-icon" target="_main">](https://niwashkumarmandal.github.io/DiceGame/) <span style="color:blue;">(Click on the image to view this project)</span>
 
 ## Overview:
 This Dice Roll project is a simple web application built using HTML, CSS, and JavaScript. It simulates the rolling of a six-sided dice commonly used in various board games and tabletop activities. Users can click a button to roll the dice and see the result displayed on the screen.
